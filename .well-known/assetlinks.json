@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myapp.cryptochatter",
+      "sha256_cert_fingerprints": [
+        "99:A6:40:EB:2F:5C:1D:45:0B:52:2F:51:64:89:A8:FF:3F:56:3B:DC:A1:DE:40:58:E0:CF:79:65:4E:BC:79:95"
+      ]
+    }
+  }
+]
